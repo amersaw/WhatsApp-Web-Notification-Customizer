@@ -1,13 +1,13 @@
 {
     "name": "Whatsapp Web Notification Customizer",
-    "version": "1.0",
+    "version": "0.0.0.1",
+    "homepage_url": "https://github.com/amersaw/WhatsApp-Web-Notification-Customizer",
     "description": "Customize Whatsapp Web Notification Sound",
     "manifest_version": 2,
     "permissions": [
         "storage",
         "webRequest",
         "webRequestBlocking",
-        "declarativeContent",
         "https://web.whatsapp.com/*"
     ],
     "options_page": "options.html",
